@@ -1,6 +1,6 @@
 ---
 title: "Kombucha"
-date: 2022-10-04T16:53:00+02:00
+# date: 2022-10-04T16:53:00+02:00
 draft: true
 author: Erik
 images: ["images/kombucha.jpg"]
