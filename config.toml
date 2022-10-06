@@ -7,8 +7,15 @@ title = "eineruntervielen Blogs"
 theme = "DoIt"
 
 [params]
-  # DoIt theme version
   version = "0.2.X"
+[params.home.profile]
+  enable = true
+  avatarURL = "/images/ejk.jpg"
+  social = true
+[params.social]
+  GitHub = "eineruntervielen"
+  RSS = true
+  Xing = "Erik_Kostic"
 
 [menu]
   [[menu.main]]
