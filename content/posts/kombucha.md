@@ -3,8 +3,8 @@ title: "Kombucha"
 # date: 2022-10-04T16:53:00+02:00
 draft: true
 author: Erik
-images: ["images/kombucha.jpg"]
-featuredImagePreview: "images/kombucha.jpg"
+images: ["img/kombucha.jpg"]
+featuredImagePreview: "img/kombucha.jpg"
 math: true
 ---
 
